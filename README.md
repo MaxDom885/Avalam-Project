@@ -20,7 +20,7 @@ The project is organized into several files:
 
 - ATTOH James
 - BIAOU Marius
-- HOUESSOU Kenyy
+- HOUESSOU Kenny
 - YACOUBOU Masmoud
 
 ## Prerequisites
